@@ -37,4 +37,8 @@ public class IPhoneObservable implements StockObservable{
     public int getStockCount() {
         return count;
     }
+
+    public static void main(String[] args) {
+        System.out.print("hello");
+    }
 }
